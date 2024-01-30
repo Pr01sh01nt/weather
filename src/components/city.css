@@ -1,9 +1,10 @@
 #one{
     color: azure;
-    margin: 1px 0px;
+    margin: 10em;
     line-height: 1.5em;
     height: 10rem;
     width: 20rem;
+    /* width: fit-content; */
     border-radius: 1vh;
     box-shadow: 2px 2px 10px rgba(110, 206, 215, 0.831);
     padding: 0.1vh;
@@ -20,4 +21,9 @@
 }
 *{
     color: white;
+}
+
+.twoChild{
+    line-height: 1.2em;   
+    margin: 1em 1em;
 }
