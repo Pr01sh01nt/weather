@@ -1,0 +1,12 @@
+html{
+  background: url('./img/Weather.jpg') no-repeat;  
+  background-size: cover;
+
+}
+
+#root{
+  /* border: solid black 30px; */
+  /* background-color: green; */
+  height: fit-content;
+  width: auto;
+}
